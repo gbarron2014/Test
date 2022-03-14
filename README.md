@@ -15,12 +15,20 @@
       </ul>
     </li>
     <li>
-      <a href="#análisis-de-la-solución">Análisis de la Soluciónn</a>
+      <a href="#análisis-de-la-solución">Análisis de la Solución</a>
       <ul>
         <li><a href="#requerimientos">Requerimientos</a></li>
         <li><a href="#diagrama-casos-de-uso">Diagrama de Casos de Uso</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#diseño-de-la-solución">Diseño de la Solución</a>
+      <ul>
+        <li><a href="#modelo-relacional">Modelo Relacional</a></li>
+        <li><a href="#diagrama-de-clase">Diagrama de Clases</a></li>
+        <li><a href="#diagrama-de-componentes">Diagrama de Componentes</a></li>
+      </ul>
+    </li>    
     <li><a href="#uso">Uso</a></li>
     <li><a href="#guias">Guias</a></li>
     <li><a href="#contribucion">Contribución</a></li>
@@ -62,7 +70,17 @@ Listado de los requerimientos (código requerimiento, descripción)
 #### Diagrama Casos de Uso.
 Agregar la imagen de los Casos de Uso.
 
+<!-- Diseño del proyecto -->
+## Diseño del Proyecto.
+En ésta sección se indicará los artefactos generados en base a la solución.
 
+<!-- Modelo Relacional -->
+#### Modelo Relacional.
+Esquema de la base de datos (nombre de campo, tipo de datos, restricciones, etc)
+
+<!-- Diagrama de Clases -->
+#### Diagrama de Clases.
+Esquema de las clases empleadas (atributos y sus métodos).
 
 <!-- Iniciando -->
 ## Iniciando
