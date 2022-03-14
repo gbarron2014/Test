@@ -36,6 +36,13 @@
         <li><a href="#arquitectura">Arquitectura</a></li>
         <li><a href="#código-fuente">Código Fuente</a></li>
       </ul>
+    </li>      
+    <li>
+      <a href="#pruebas">Pruebas</a>
+      <ul>
+        <li><a href="#casos-de-prueba">Casos de prueba</a></li>
+        <li><a href="#ejecución">Ejecución</a></li>
+      </ul>
     </li>       
     <li><a href="#uso">Uso</a></li>
     <li><a href="#guias">Guias</a></li>
@@ -112,6 +119,19 @@ Definir los patrones empleados y de seguridad.
 <!-- Código Fuente -->
 #### Código Fuente.
 Código Fuente de la solución
+
+
+<!-- Pruebas proyecto -->
+## Pruebas.
+En ésta sección se describe  los artefactos generados en base a la solución.
+
+<!-- Casos de prueba -->
+#### Casos de prueba.
+Indicar los casos de prueba
+
+<!-- Ejecución Casos de prueba -->
+#### Ejecución.
+Evidencia de Ejecución de Casos de prueba.
 
 
 <!-- Iniciando -->
