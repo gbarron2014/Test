@@ -25,7 +25,7 @@
       <a href="#diseño-de-la-solución">Diseño de la Solución</a>
       <ul>
         <li><a href="#modelo-relacional">Modelo Relacional</a></li>
-        <li><a href="#diagrama-de-clase">Diagrama de Clases</a></li>
+        <li><a href="#diagrama-de-clases">Diagrama de Clases</a></li>
         <li><a href="#diagrama-de-componentes">Diagrama de Componentes</a></li>
       </ul>
     </li>    
@@ -59,7 +59,7 @@ Organigrama.
 Diagrama Gantt.
 
 <!-- Análisis del proyecto -->
-## Análisis del Proyecto
+## Análisis de la Solución.
 En ésta sección se indicará los artefactos generados en base a la solución.
 
 <!-- Requerimientos -->
@@ -70,8 +70,10 @@ Listado de los requerimientos (código requerimiento, descripción)
 #### Diagrama Casos de Uso.
 Agregar la imagen de los Casos de Uso.
 
+
+
 <!-- Diseño del proyecto -->
-## Diseño del Proyecto.
+## Diseño de la Solución.
 En ésta sección se indicará los artefactos generados en base a la solución.
 
 <!-- Modelo Relacional -->
@@ -81,6 +83,12 @@ Esquema de la base de datos (nombre de campo, tipo de datos, restricciones, etc)
 <!-- Diagrama de Clases -->
 #### Diagrama de Clases.
 Esquema de las clases empleadas (atributos y sus métodos).
+
+<!-- Diagrama de Componentes -->
+#### Diagrama de Componentes.
+Esquema de los componentes que interactúan (Modelo, Vista, Controlador, Servidor Web, Servidor de base de datos)
+
+
 
 <!-- Iniciando -->
 ## Iniciando
