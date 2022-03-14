@@ -29,6 +29,14 @@
         <li><a href="#diagrama-de-componentes">Diagrama de Componentes</a></li>
       </ul>
     </li>    
+    <li>
+      <a href="#implementación">Implementación</a>
+      <ul>
+        <li><a href="#estándares-codificación">Estándares Codificación</a></li>
+        <li><a href="#arquitectura">Arquitectura</a></li>
+        <li><a href="#código-fuente">Código Fuente</a></li>
+      </ul>
+    </li>       
     <li><a href="#uso">Uso</a></li>
     <li><a href="#guias">Guias</a></li>
     <li><a href="#contribucion">Contribución</a></li>
@@ -88,6 +96,22 @@ Esquema de las clases empleadas (atributos y sus métodos).
 #### Diagrama de Componentes.
 Esquema de los componentes que interactúan (Modelo, Vista, Controlador, Servidor Web, Servidor de base de datos)
 
+
+<!-- Implementación del proyecto -->
+## Implementación.
+En ésta sección se describe  los artefactos generados en base a la solución.
+
+<!-- Estándares de Codificación -->
+#### Estándares Codificación.
+Estándares empleados en la codificación
+
+<!-- Arquitectura MVC y Middleware -->
+#### Arquitectura.
+Definir los patrones empleados y de seguridad.
+
+<!-- Código Fuente -->
+#### Código Fuente.
+Código Fuente de la solución
 
 
 <!-- Iniciando -->
