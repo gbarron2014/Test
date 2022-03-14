@@ -44,7 +44,6 @@
         <li><a href="#ejecución">Ejecución</a></li>
       </ul>
     </li>       
-    <li><a href="#uso">Uso</a></li>
     <li><a href="#guias">Guias</a></li>
     <li><a href="#contribucion">Contribución</a></li>
     <li><a href="#licencia">licencia</a></li>
@@ -140,18 +139,15 @@ Iniciando.
 
 <!-- Requisitos -->
 ### Requisitos
-Requisitos.
+Requisitos de Instalación.
 
 <!-- Instalación -->
 ### Instalacion
-Instalación.
+Instalación del Software
 
-<!-- Uso -->
-### Uso
-Uso.
 
 ## Guias
-Guias.
+Guias de Uso.
 
 ## contribucion
 Contribucion.
@@ -163,9 +159,9 @@ Licencia.
 Contacto.
 
 ## Participantes
-* [Gerardo Reyna Ibarra]()
-* [Anastasio Rodríguez García]()
-* [Gabriel Barrón Rodríguez]()
+* [participante 1]()
+* [participante 2]()
+* [participante 3]()
 
 [contribuidores-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
